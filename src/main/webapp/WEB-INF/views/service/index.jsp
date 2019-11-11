@@ -12,7 +12,7 @@
 <div>
     <jsp:include page="/header"/>
     <div class="context">
-        首页
+        服务
     </div>
 </div>
 </body>
